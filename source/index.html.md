@@ -11,7 +11,6 @@ toc_footers:
 
 includes:
   - index
-  - releasenotes
   - guide
   - server
   - sdk
